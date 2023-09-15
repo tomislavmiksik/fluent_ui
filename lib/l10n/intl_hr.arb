@@ -1,0 +1,127 @@
+{
+  "@@locale": "hr",
+  "backButtonTooltip": "Natrag",
+  "@backButtonTooltip": {
+    "description": "Tooltip za gumb Natrag na [NavigationAppBar]."
+  },
+  "closeButtonLabel": "Zatvori",
+  "@closeButtonLabel": {
+    "description": "Oznaka za gumbe i stavke izbornika \"Zatvori\"."
+  },
+  "searchLabel": "Pretraživanje",
+  "@searchLabel": {
+    "description": "Oznaka za tekstualna polja \"Pretraživanje\"."
+  },
+  "closeNavigationTooltip": "Zatvori navigaciju",
+  "@closeNavigationTooltip": {
+    "description": "Tooltip za gumb za uključivanje/isključivanje navigacije."
+  },
+  "openNavigationTooltip": "Otvori navigaciju",
+  "@openNavigationTooltip": {
+    "description": "Tooltip za gumb za uključivanje/isključivanje navigacije."
+  },
+  "clickToSearch": "Kliknite za pretraživanje",
+  "@clickToSearch": {
+    "description": "Tooltip za gumb \"Kliknite za pretraživanje\"."
+  },
+  "modalBarrierDismissLabel": "Odbaci",
+  "@modalBarrierDismissLabel": {
+    "description": "Oznaka koju čitaju alati za pristupačnost (TalkBack ili VoiceOver) za modalnu prepreku koja ukazuje da se dodirivanjem prepreke ona odbacuje. Modalna prepreka može se, na primjer, nalaziti iza upozorenja ili skočnog prozora kako bi blokirala interakciju korisnika s elementima iza nje."
+  },
+  "minimizeWindowTooltip": "Smanji",
+  "@minimizeWindowTooltip": {
+    "description": "Tooltip za gumb \"Smanji\" na prozorima na radnoj površini."
+  },
+  "restoreWindowTooltip": "Vrati",
+  "@restoreWindowTooltip": {
+    "description": "Tooltip za gumb \"Vrati\" na prozorima na radnoj površini."
+  },
+  "closeWindowTooltip": "Zatvori",
+  "@closeWindowTooltip": {
+    "description": "Tooltip za gumb \"Zatvori\" na prozorima na radnoj površini."
+  },
+  "dialogLabel": "Dijalog",
+  "@dialogLabel": {
+    "description": "Oznaka dijaloga."
+  },
+  "cutActionLabel": "Izreži",
+  "@cutActionLabel": {
+    "description": "Oznaka za radnju izrezivanja na kontrolama odabira teksta."
+  },
+  "copyActionLabel": "Kopiraj",
+  "@copyActionLabel": {
+    "description": "Oznaka za radnju kopiranja na kontrolama odabira teksta."
+  },
+  "pasteActionLabel": "Zalijepi",
+  "@pasteActionLabel": {
+    "description": "Oznaka za radnju zalijepi na kontrolama odabira teksta."
+  },
+  "selectAllActionLabel": "Odaberi sve",
+  "@selectAllActionLabel": {
+    "description": "Oznaka za radnju odabira svih na kontrolama odabira teksta."
+  },
+  "newTabLabel": "Dodaj novu karticu",
+  "@newTabLabel": {
+    "description": "Oznaka korištena za novi gumb [TabView]."
+  },
+  "closeTabLabelSuffix": "Zatvori karticu",
+  "@closeTabLabelSuffix": {
+    "description": "Oznaka korištena za zatvaranje gumba [TabView]."
+  },
+  "scrollTabBackwardLabel": "Pomakni unatrag popis kartica",
+  "@scrollTabBackwardLabel": {
+    "description": "Oznaka korištena za gumb za pomak unatrag [TabView]."
+  },
+  "scrollTabForwardLabel": "Pomakni unaprijed popis kartica",
+  "@scrollTabForwardLabel": {
+    "description": "Oznaka korištena za gumb za pomak unaprijed [TabView]."
+  },
+  "noResultsFoundLabel": "Nema pronađenih rezultata",
+  "@noResultsFoundLabel": {
+    "description": "Oznaka korištena za [AutoSuggestBox] kada rezultati nisu pronađeni."
+  },
+  "copyActionTooltip": "Kopiraj odabrani sadržaj u međuspremnik",
+  "@copyActionTooltip": {
+    "description": "Tooltip za radnju kopiranja na kontrolama odabira teksta."
+  },
+  "cutActionTooltip": "Uklanja odabrani sadržaj i stavlja ga u međuspremnik",
+  "@cutActionTooltip": {
+    "description": "Tooltip za radnju izrezivanja na kontrolama odabira teksta."
+  },
+  "pasteActionTooltip": "Umjesto sadržaja međuspremnika na trenutačnom mjestu",
+  "@pasteActionTooltip": {
+    "description": "Tooltip za radnju zalijepi na kontrolama odabira teksta."
+  },
+  "selectAllActionTooltip": "Odaberi sav sadržaj",
+  "@selectAllActionTooltip": {
+    "description": "Tooltip za radnju odabira svih na kontrolama odabira teksta."
+  },
+  "hour": "sati",
+  "@hour": {
+    "description": "Tekst koji koristi [TimePicker] za polje sati."
+  },
+  "minute": "minute",
+  "@minute": {
+    "description": "Tekst koji koristi [TimePicker] za polje minuta."
+  },
+  "am": "AM",
+  "@am": {
+    "description": "Tekst koji koristi [TimePicker] za polje AM."
+  },
+  "pm": "PM",
+  "@pm": {
+    "description": "Tekst koji koristi [TimePicker] za polje PM."
+  },
+  "month": "mjesec",
+  "@month": {
+    "description": "Tekst koji koristi [DatePicker] za polje mjeseca."
+  },
+  "day": "dan",
+  "@day": {
+    "description": "Tekst koji koristi [DatePicker] za polje dana."
+  },
+  "year": "godina",
+  "@year": {
+    "description": "Tekst koji koristi [DatePicker] za polje godine."
+  }
+}
